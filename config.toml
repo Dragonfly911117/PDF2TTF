@@ -1,0 +1,14 @@
+[src]
+	starting_page = 1
+	ending_page = 57
+        file_name = "./src.pdf" 
+[path]
+	page_png = "pages"
+	rec_bound = "rec_bound"
+	cropped_png = "cropped_png"
+	svg = "svg_separate"
+	pico = "pico"
+	final = "final_font"
+[info]
+	font_name = "hatedByC1ydeh.ttf"
+	
