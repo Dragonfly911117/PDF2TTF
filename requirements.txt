@@ -4,3 +4,9 @@ lpips
 torch
 scikit-image
 natsort
+
+pdf2image
+poppler-utils
+
+picosvg
+
