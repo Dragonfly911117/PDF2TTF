@@ -56,5 +56,5 @@ This is a mixture project of [01-2_crop_paper](https://github.com/Garvin2009/01-
     ```
   
 #### Progress
-- [s1_pdf2pdf2png.py](s1_pdf2png.py): Able to read config and run in #a43fa42
+- [s1_pdf2pdf2png.py](s1_pdf2png.py): Able to read config and run in a43fa42
 
