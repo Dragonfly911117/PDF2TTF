@@ -50,12 +50,11 @@ This is a mixture project of [01-2_crop_paper](https://github.com/Garvin2009/01-
     # This combines previous files to `${path.final}/${file_name}` with its font name as ${font_name}.
 
 ```
-
 - Cool script that does every thing above
     ```shell
     ./auto.sh
     ```
-
+  
 #### Progress
-- [s1_pdf2pdf2png.py]: Able to read config and run in #a43fa42
+- [s1_pdf2pdf2png.py](https://github.com/Dragonfly911117/DDF2TTF/s1_pdf2png.py]: Able to read config and run in #a43fa42
 
