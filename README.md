@@ -1,4 +1,6 @@
 ### PDF2TTF
+> [!WARNING]
+> This project is a WIP project, see [progress](https://github.com/Dragonfly911117/PDF2TTF/Progress) section for stuffs that is safe to use.
 
 #### Brief
 This is a mixture project of [01-2_crop_paper](https://github.com/Garvin2009/01-2_crop_paper) and [PngToTTF](https://github.com/chiaoooo/PngToTTF).
@@ -54,5 +56,6 @@ This is a mixture project of [01-2_crop_paper](https://github.com/Garvin2009/01-
     ./auto.sh
     ```
 
-
+#### Progress
+- [s1_pdf2pdf2png.py]: Able to read config and run in #a43fa42
 
